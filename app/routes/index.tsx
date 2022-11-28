@@ -293,8 +293,15 @@ export default function Index() {
                   popupContent: (
                     <div>
                       <h3>{member.name}</h3>
-                      <strong>{member.venue?.name}</strong>
+                      <strong>{member.venue?.name}</strong> ({member.venue?.country})
                       {member.company && <p>Company: {member.company}</p>}
+                      <a
+                        href={`https://plone.org/foundation/members/active-members${member.id}`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        More info
+                      </a>
                     </div>
                   )
                 }))}
@@ -315,7 +322,15 @@ export default function Index() {
           <ul>
             {members.map((m) => (
               <li key={m.id}>
-                <h3>{m.name}</h3>
+                <h3>
+                  <a
+                    href={`https://plone.org/foundation/members/active-members${m.id}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {m.name}
+                  </a>
+                </h3>
                 <p>
                   <i>Company</i>: {m.company}
                 </p>
