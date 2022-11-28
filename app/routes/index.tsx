@@ -319,9 +319,24 @@ export default function Index() {
       {!!members?.length ? (
         <>
           <h2>Members</h2>
-          <ul>
+          <ul
+            style={{
+              listStyle: 'none',
+              padding: 0,
+              display: 'grid',
+              gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))'
+            }}
+          >
             {members.map((m) => (
-              <li key={m.id}>
+              <li
+                key={m.id}
+                style={{
+                  boxShadow: '0 0 1em rgba(0, 0, 0, 0.15)',
+                  borderRadius: 10,
+                  margin: '1em',
+                  padding: '0.5em 1em'
+                }}
+              >
                 <h3>
                   <a
                     href={`https://plone.org/foundation/members/active-members${m.id}`}
