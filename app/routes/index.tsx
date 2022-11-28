@@ -263,7 +263,16 @@ export default function Index() {
             </div>
           )}
           <div style={{ marginTop: '1em' }}>
-            <button type="submit">Filter</button>
+            <button
+              type="submit"
+              style={{
+                fontSize: '1em',
+                padding: '0.25em 0.75em',
+                cursor: 'pointer'
+              }}
+            >
+              Filter
+            </button>
           </div>
         </fieldset>
       </Form>
