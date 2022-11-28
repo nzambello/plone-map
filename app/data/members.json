@@ -50,7 +50,7 @@
   {
     "id": "/alecghica",
     "name": "Alexandru Ghica",
-    "company": "Eau de Web S.r.l.",
+    "company": "Eau de Web",
     "venue": {
       "name": "Bucharest",
       "latitude": 44.43225,
@@ -162,8 +162,8 @@
     "company": "4teamwork GmbH",
     "venue": {
       "name": "Bern",
-      "longitude": 46.948,
-      "latitude": 7.4575,
+      "latitude": 46.94809,
+      "longitude": 7.44744,
       "continent": "Europe",
       "country": "Switzerland"
     }
@@ -916,7 +916,7 @@
   {
     "id": "https://plone.org/foundation/members/membership-applications/nilesh-gulia",
     "name": "Nilesh Gulia",
-    "company": "Eau De Web (EEA)",
+    "company": "Eau de Web",
     "venue": {
       "name": "Delhi",
       "latitude": 28.6605,
@@ -1195,10 +1195,10 @@
     "company": "iccm inc.",
     "venue": {
       "name": "Kasama",
-      "latitude": -10.21289,
-      "longitude": 31.18084,
-      "country": "Zambia",
-      "continent": "Africa"
+      "latitude": 36.38333,
+      "longitude": 140.26667,
+      "country": "Japan",
+      "continent": "Asia"
     }
   },
   {
@@ -1258,7 +1258,7 @@
   {
     "id": "/tiberiu-ichim",
     "name": "Tiberiu Ichim",
-    "company": "SC Eaudeweb SRL",
+    "company": "Eau de Web",
     "venue": {
       "name": "Oradea",
       "latitude": 47.0458,
@@ -1282,7 +1282,7 @@
   {
     "id": "/victorfda",
     "name": "Víctor Fernández de Alba",
-    "company": "kitconcept, GmbH",
+    "company": "kitconcept GmbH",
     "venue": {
       "name": "Terrassa",
       "latitude": 41.56667,
