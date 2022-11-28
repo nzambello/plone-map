@@ -127,7 +127,7 @@ export default function Index() {
           width="158.253px"
           height="40.686px"
           viewBox="0 0 158.253 40.686"
-          enable-background="new 0 0 158.253 40.686"
+          enableBackground="new 0 0 158.253 40.686"
           xmlSpace="preserve"
         >
           <g>
