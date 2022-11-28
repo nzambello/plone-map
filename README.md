@@ -1,22 +1,11 @@
-# Welcome to Remix!
+# The Plone Map™
 
-- [Remix Docs](https://remix.run/docs)
+This is a map of Plone Foundation members.
 
-## Development
+You can find it here: [plone-map.pages.dev](https://plone-map.pages.dev)
 
-You will be utilizing Wrangler for local development to emulate the Cloudflare runtime. This is already wired up in your package.json as the `dev` script:
+All the data belogs to the members and the [Plone Foundation](https://plone.org/foundation) and it is extracted and periodically updated from [plone.org/foundation/members](plone.org/foundation/members).
 
-```sh
-# start the remix dev server and wrangler
-npm run dev
-```
+![image](https://user-images.githubusercontent.com/21101435/204272838-9b695269-a818-4c4e-923b-5bac635f10ce.png)
 
-Open up [http://127.0.0.1:8788](http://127.0.0.1:8788) and you should be ready to go!
-
-## Deployment
-
-Cloudflare Pages are currently only deployable through their Git provider integrations.
-
-If you don't already have an account, then [create a Cloudflare account here](https://dash.cloudflare.com/sign-up/pages) and after verifying your email address with Cloudflare, go to your dashboard and follow the [Cloudflare Pages deployment guide](https://developers.cloudflare.com/pages/framework-guides/deploy-anything).
-
-Configure the "Build command" should be set to `npm run build`, and the "Build output directory" should be set to `public`.
+Made with [Remix](https://remix.run) and [Cloudflare Pages](https://pages.cloudflare.com/).
