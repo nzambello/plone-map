@@ -1,0 +1,53 @@
+.suggestions-wrapper {
+	position: absolute;
+	top: 40px;
+	background: #fff;
+}
+
+.suggestions-wrapper ul {
+	list-style: none;
+	padding: 10px 0;
+	margin: 0;
+}
+
+.suggestions-wrapper ul li {
+	display: flex;
+}
+
+.suggestions-wrapper ul li:hover {
+	background: rgba(0, 0, 125, 0.4);
+}
+
+.suggestions-wrapper ul li button {
+	cursor: pointer;
+	background: none;
+	border: 0;
+	width: 100%;
+	padding: 10px;
+}
+
+#geocoded-result {
+	height: 500px;
+}
+
+.marker-cluster {
+	background-color: #0083be;
+	color: #fff;
+	border-radius: 100%;
+	-webkit-box-shadow: 0px 0px 8px 2px #0083be;
+	box-shadow: 0px 0px 8px 2px #0083be;
+}
+
+.marker-cluster div {
+	width: 30px;
+	height: 30px;
+	margin-left: 5px;
+	margin-top: 5px;
+	text-align: center;
+	border-radius: 15px;
+	font-size: 12px;
+}
+
+.marker-cluster span {
+	line-height: 30px;
+}

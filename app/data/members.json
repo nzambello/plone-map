@@ -1,0 +1,1330 @@
+[
+  {
+    "id": "/alecm",
+    "name": "Alec Mitchell",
+    "company": "Independent",
+    "venue": {
+      "name": "Los Angeles",
+      "latitude": 34.05223,
+      "longitude": -118.24368,
+      "country": "United States",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/alessandro-pisa",
+    "name": "Alessandro Pisa",
+    "company": "Syslab.com",
+    "venue": {
+      "name": "Ferrara",
+      "latitude": 44.83804,
+      "longitude": 11.62057,
+      "country": "Italy",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/loechel",
+    "name": "Alexander Loechel",
+    "company": "Ludwig-Maximilians-Universität München",
+    "venue": {
+      "name": "Munich",
+      "latitude": 48.13743,
+      "longitude": 11.57549,
+      "country": "Germany",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/pilz",
+    "name": "Alexander Pilz",
+    "company": "Syslab.com GmbH",
+    "venue": {
+      "name": "Munich",
+      "latitude": 48.13743,
+      "longitude": 11.57549,
+      "country": "Germany",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/alecghica",
+    "name": "Alexandru Ghica",
+    "company": "Eau de Web S.r.l.",
+    "venue": {
+      "name": "Bucharest",
+      "latitude": 44.43225,
+      "longitude": 26.10626,
+      "country": "Romania",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/avoinea",
+    "name": "Alin Voinea",
+    "company": "Eau de Web",
+    "venue": {
+      "name": "Bucharest",
+      "latitude": 44.43225,
+      "longitude": 26.10626,
+      "country": "Romania",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/andren",
+    "name": "Andre Nogueira",
+    "company": "ForContent",
+    "venue": {
+      "name": "São Paulo",
+      "latitude": -23.5475,
+      "longitude": -46.63611,
+      "country": "Brazil",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/andrea-cecchi",
+    "name": "Andrea Cecchi",
+    "company": "RedTurtle",
+    "venue": {
+      "name": "Ferrara",
+      "latitude": 44.83804,
+      "longitude": 11.62057,
+      "country": "Italy",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/witsch",
+    "name": "Andreas Zeidler",
+    "company": "Zeidler IT Consulting",
+    "venue": {
+      "name": "Berlin",
+      "latitude": 52.52437,
+      "longitude": 13.41053,
+      "country": "Germany",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/ableeb",
+    "name": "Andy Leeb",
+    "company": "All or none",
+    "venue": {
+      "name": "Chapel Hill",
+      "latitude": 35.9132,
+      "longitude": -79.05584,
+      "country": "United States",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/acsr",
+    "name": "Armin Stross-Radschinski",
+    "company": "ACSR industrialdesign",
+    "venue": {
+      "name": "Troisdorf",
+      "latitude": 50.80901,
+      "longitude": 7.14968,
+      "country": "Germany",
+      "continent": "Europe"
+    }
+  },
+  { "id": "/aroldo-souza-leite", "name": "Aroldo Souza-Leite", "company": "Zope Foundation", "venue": { "name": "" } },
+  {
+    "id": "/datakurre",
+    "name": "Asko Soukka",
+    "company": "University of Jyväskylä",
+    "venue": {
+      "name": "Jyväskylä",
+      "latitude": 62.24147,
+      "longitude": 25.72088,
+      "country": "Finland",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/ree",
+    "name": "Balázs Reé",
+    "company": "Greenfinity, LLC",
+    "venue": {
+      "name": "Budapest",
+      "latitude": 47.49835,
+      "longitude": 19.04045,
+      "country": "Hungary",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/buehlmann",
+    "name": "Bernhard Buehlmann",
+    "company": "4teamwork GmbH",
+    "venue": {
+      "name": "Bern",
+      "longitude": 46.948,
+      "latitude": 7.4575,
+      "continent": "Europe",
+      "country": "Switzerland"
+    }
+  },
+  {
+    "id": "/calvinhp",
+    "name": "Calvin Hendryx-Parker",
+    "company": "Six Feet Up",
+    "venue": {
+      "name": "Fishers",
+      "latitude": 39.95559,
+      "longitude": -86.01387,
+      "country": "United States",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/carol-ganz",
+    "name": "Carol Ganz",
+    "company": "Six Feet Up",
+    "venue": {
+      "name": "Fishers",
+      "latitude": 39.95559,
+      "longitude": -86.01387,
+      "country": "United States",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/cbc",
+    "name": "Chris Calloway",
+    "company": "University of North Carolina",
+    "venue": {
+      "name": "Carrboro",
+      "latitude": 35.91014,
+      "longitude": -79.07529,
+      "country": "United States",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/foundationmember.2011-11-23.8190296161",
+    "name": "Chrissy Wainwright",
+    "company": "Six Feet Up",
+    "venue": {
+      "name": "Springdale",
+      "latitude": 36.18674,
+      "longitude": -94.12881,
+      "country": "United States",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/christine-baumgartner",
+    "name": "Christine Baumgartner",
+    "company": "Klein & Partner KG, BlueDynamics Alliance",
+    "venue": {
+      "name": "Innsbruck",
+      "latitude": 47.26266,
+      "longitude": 11.39454,
+      "country": "Austria",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/claytron",
+    "name": "Clayton Parker",
+    "company": "Maxwell",
+    "venue": {
+      "name": "McCordsville",
+      "latitude": 39.9081,
+      "longitude": -85.92276,
+      "country": "United States",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/cleber-santos",
+    "name": "Cleber J Santos",
+    "company": "IGS Desenvolvimento de Software",
+    "venue": {
+      "name": "São Paulo",
+      "latitude": -23.5475,
+      "longitude": -46.63611,
+      "country": "Brazil",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/cewing",
+    "name": "Cris Ewing",
+    "company": "Cris Ewing, Developer LLC",
+    "venue": {
+      "name": "Seattle",
+      "latitude": 47.60621,
+      "longitude": -122.33207,
+      "country": "United States",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/davi-lima",
+    "name": "Davi Lima",
+    "company": "Freelancer",
+    "venue": {
+      "name": "Berlin",
+      "latitude": 52.52437,
+      "longitude": 13.41053,
+      "country": "Germany",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/david-bain",
+    "name": "David Bain",
+    "company": "Alteroo",
+    "venue": {
+      "name": "Kingston",
+      "latitude": 17.99702,
+      "longitude": -76.79358,
+      "country": "Jamaica",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/davisagli",
+    "name": "David Glick",
+    "company": "Glick Software LLC",
+    "venue": {
+      "name": "Seattle",
+      "latitude": 47.60621,
+      "longitude": -122.33207,
+      "country": "United States",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/siebo",
+    "name": "David Siedband",
+    "company": "Zentraal, Inc.",
+    "venue": {
+      "name": "Fairfax",
+      "latitude": 38.84622,
+      "longitude": -77.30637,
+      "country": "United States",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/dhanesh",
+    "name": "DHANESH K K",
+    "company": "CDAC",
+    "venue": { "name": "Chennai", "latitude": 13.08784, "longitude": 80.27847, "country": "India", "continent": "Asia" }
+  },
+  {
+    "id": "/encolpe",
+    "name": "Encolpe Degoute",
+    "company": "Aday",
+    "venue": {
+      "name": "Lyon",
+      "latitude": 45.7572,
+      "longitude": 4.8309,
+      "continent": "Europe",
+      "country": "France"
+    }
+  },
+  {
+    "id": "/eric-brehault",
+    "name": "Eric BREHAULT",
+    "company": "Onna",
+    "venue": {
+      "name": "Cugnaux",
+      "latitude": 43.53635,
+      "longitude": 1.34428,
+      "country": "France",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/esteele",
+    "name": "Eric Steele",
+    "company": "Salesforce.org",
+    "venue": {
+      "name": "Mifflinburg",
+      "latitude": 40.9181,
+      "longitude": -77.047,
+      "continent": "America",
+      "country": "United States"
+    }
+  },
+  {
+    "id": "/erico_andrei",
+    "name": "Erico Andrei",
+    "company": "Plone Foundation",
+    "venue": {
+      "name": "Berlin",
+      "latitude": 52.52437,
+      "longitude": 13.41053,
+      "country": "Germany",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/xiru",
+    "name": "Fabiano Weimar dos Santos",
+    "company": "Medallia",
+    "venue": {
+      "name": "São Leopoldo",
+      "latitude": -29.76028,
+      "longitude": -51.14722,
+      "country": "Brazil",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/fabiorizzo",
+    "name": "Fabio Rizzo",
+    "company": "Liberiun",
+    "venue": {
+      "name": "São Paulo",
+      "latitude": -23.5475,
+      "longitude": -46.63611,
+      "country": "Brazil",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/fschulze",
+    "name": "Florian Schulze",
+    "company": "Freelancer",
+    "venue": {
+      "name": "Alsfeld",
+      "latitude": 50.75185,
+      "longitude": 9.27082,
+      "country": "Germany",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/franco-pellegrini",
+    "name": "Franco Pellegrini",
+    "company": "No organization",
+    "venue": {
+      "name": "Villa Allende",
+      "latitude": -31.29458,
+      "longitude": -64.29538,
+      "country": "Argentina",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/fvandijk",
+    "name": "Fred van Dijk",
+    "company": "Zest Software",
+    "venue": {
+      "name": "Rotterdam",
+      "latitude": 51.9225,
+      "longitude": 4.47917,
+      "country": "Netherlands",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/fulvio-casali",
+    "name": "Fulvio Casali",
+    "company": "Soliton Consulting",
+    "venue": {
+      "name": "San Diego",
+      "latitude": 32.71571,
+      "longitude": -117.16472,
+      "country": "United States",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/gabriellehp",
+    "name": "Gabrielle Hendryx-Parker",
+    "company": "Six Feet Up, Inc.",
+    "venue": {
+      "name": "Fishers",
+      "latitude": 39.95559,
+      "longitude": -86.01387,
+      "country": "United States",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/elvix",
+    "name": "Geir Bækholt",
+    "company": "Crypho AS",
+    "venue": {
+      "name": "Nøtterøy",
+      "latitude": 59.2174,
+      "longitude": 10.4147,
+      "continent": "Europe",
+      "country": "Norway"
+    }
+  },
+  {
+    "id": "/giulia-ghisini",
+    "name": "Giulia Ghisini",
+    "company": "RedTurtle",
+    "venue": {
+      "name": "Ferrara",
+      "latitude": 44.83804,
+      "longitude": 11.62057,
+      "country": "Italy",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/gsroma",
+    "name": "Giuseppe Romagnoli",
+    "company": "SERPRO",
+    "venue": {
+      "name": "Rio de Janeiro",
+      "latitude": -22.90642,
+      "longitude": -43.18223,
+      "country": "Brazil",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/gotcha",
+    "name": "Godefroid Chapelle",
+    "company": "BubbleNet",
+    "venue": {
+      "name": "Louvain-la-Neuve",
+      "latitude": 50.66829,
+      "longitude": 4.61443,
+      "country": "Belgium",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/foundationmember.2011-11-04.6948262236",
+    "name": "Gogo Bernhard",
+    "company": "]a[ academy of fine arts vienna",
+    "venue": {
+      "name": "Vienna",
+      "latitude": 48.20849,
+      "longitude": 16.37208,
+      "country": "Austria",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/gyst",
+    "name": "Guido Stevens",
+    "company": "Cosent",
+    "venue": {
+      "name": "Noorbeek",
+      "latitude": 50.7688,
+      "longitude": 5.8122,
+      "continent": "Europe",
+      "country": "Netherlands"
+    }
+  },
+  {
+    "id": "/uyar",
+    "name": "H. Turgut Uyar",
+    "company": "Istanbul Technical University",
+    "venue": {
+      "name": "Istanbul",
+      "latitude": 41.01384,
+      "longitude": 28.94966,
+      "country": "Turkey",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/foundationmember.2011-10-14.2330341139",
+    "name": "Héctor Velarde",
+    "company": "None",
+    "venue": {
+      "name": "Benito Juárez",
+      "latitude": 22.20067,
+      "longitude": -97.84085,
+      "country": "Mexico",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/tesdal",
+    "name": "Helge Tesdal",
+    "company": "Vipps AS",
+    "venue": {
+      "name": "Oslo",
+      "latitude": 59.9137,
+      "longitude": 10.746,
+      "continent": "Europe",
+      "country": "Norway"
+    }
+  },
+  {
+    "id": "/neaj",
+    "name": "Jean Jordaan",
+    "company": "ScreenCloud",
+    "venue": {
+      "name": "Bangkok",
+      "latitude": 13.75398,
+      "longitude": 100.50144,
+      "country": "Thailand",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "/jladage",
+    "name": "Jean-Paul Ladage",
+    "company": "Zest Software BV",
+    "venue": {
+      "name": "Rotterdam",
+      "latitude": 51.9225,
+      "longitude": 4.47917,
+      "country": "Netherlands",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/dataflake",
+    "name": "Jens Vagelpohl",
+    "company": "zetwork",
+    "venue": {
+      "name": "Oldenburg in Holstein",
+      "latitude": 54.29576,
+      "longitude": 10.90156,
+      "country": "Germany",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/jensens",
+    "name": "Jens W. Klein",
+    "company": "Klein & Partner KG, BlueDynamics Alliance",
+    "venue": {
+      "name": "Innsbruck",
+      "latitude": 47.26266,
+      "longitude": 11.39454,
+      "country": "Austria",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/foundationmember.2008-10-27.4340772912",
+    "name": "Joël Lambillotte",
+    "company": "Town of Sambreville",
+    "venue": {
+      "name": "Tamines",
+      "latitude": 50.43378,
+      "longitude": 4.60713,
+      "country": "Belgium",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/thet",
+    "name": "Johannes Raggam",
+    "company": "Syslab.com",
+    "venue": {
+      "name": "Graz",
+      "latitude": 47.0697,
+      "longitude": 15.4368,
+      "continent": "Europe",
+      "country": "Austria"
+    }
+  },
+  {
+    "id": "https://plone.org/foundation/members/membership-applications/jorg-zell",
+    "name": "Jörg Zell",
+    "company": "Interaktiv GmbH",
+    "venue": {
+      "name": "Kerpen",
+      "latitude": 50.86991,
+      "longitude": 6.69691,
+      "country": "Germany",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/jpg",
+    "name": "Juan Pablo Giménez",
+    "company": "Freelance",
+    "venue": {
+      "name": "Rosario",
+      "latitude": -32.94682,
+      "longitude": -60.63932,
+      "country": "Argentina",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/katja-suss",
+    "name": "Katja Süss",
+    "company": "Rohberg",
+    "venue": {
+      "name": "Zürich",
+      "latitude": 47.36667,
+      "longitude": 8.55,
+      "country": "Switzerland",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/khink",
+    "name": "Kees Hink",
+    "company": "Four Digits",
+    "venue": {
+      "name": "Arnhem",
+      "latitude": 51.98,
+      "longitude": 5.91111,
+      "country": "Netherlands",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/kim-paulissen",
+    "name": "Kim Paulissen",
+    "company": "KU Leuven",
+    "venue": {
+      "name": "Kessel-Lo",
+      "latitude": 50.88549,
+      "longitude": 4.73717,
+      "country": "Belgium",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/macagua",
+    "name": "Leonardo J. Caballero G.",
+    "company": "Plone Venezuela",
+    "venue": {
+      "name": "Maracaibo",
+      "latitude": 10.66663,
+      "longitude": -71.61245,
+      "country": "Venezuela",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/leonardo-rochael%20almeida",
+    "name": "Leonardo Rochael Almeida",
+    "company": "Zope Foundation",
+    "venue": { "name": "" }
+  },
+  {
+    "id": "https://plone.org/foundation/members/membership-applications/lucas-aquino",
+    "name": "Lucas Aquino",
+    "company": "Superior Electoral Court - TSE",
+    "venue": {
+      "name": "Brasília",
+      "latitude": -15.77972,
+      "longitude": -47.92972,
+      "country": "Brazil",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/maartenkling",
+    "name": "Maarten Kling",
+    "company": "Four Digits",
+    "venue": {
+      "name": "Duiven",
+      "latitude": 51.94667,
+      "longitude": 6.01389,
+      "country": "Netherlands",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/maik-derstappen",
+    "name": "Maik Derstappen",
+    "company": "derico - web development & consulting",
+    "venue": {
+      "name": "Leipzig",
+      "latitude": 51.3422,
+      "longitude": 12.3727,
+      "continent": "Europe",
+      "country": "Germany"
+    }
+  },
+  {
+    "id": "/maikroeder",
+    "name": "Maik Röder",
+    "company": "Freelancer",
+    "venue": {
+      "name": "Heidelberg",
+      "latitude": 49.4096,
+      "longitude": 8.6933,
+      "continent": "Europe",
+      "country": "Germany"
+    }
+  },
+  {
+    "id": "/terapyon",
+    "name": "Manabu TERADA",
+    "company": "CMScom",
+    "venue": {
+      "name": "Taito-ku",
+      "latitude": 35.7178,
+      "longitude": 139.7904,
+      "continent": "Asia",
+      "country": "Japan"
+    }
+  },
+  {
+    "id": "/markcorum",
+    "name": "Mark Corum",
+    "company": "Self",
+    "venue": {
+      "name": "Columbus",
+      "latitude": 39.96118,
+      "longitude": -82.99879,
+      "country": "United States",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/markus-hilbert",
+    "name": "Markus Hilbert",
+    "company": "iham.at",
+    "venue": {
+      "name": "Vienna",
+      "latitude": 48.20849,
+      "longitude": 16.37208,
+      "country": "Austria",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "https://plone.org/foundation/members/emeritus-members/mattl",
+    "name": "Matt Lee",
+    "company": "N/A",
+    "venue": {
+      "name": "Cambridge",
+      "latitude": 52.2,
+      "longitude": 0.11667,
+      "country": "United Kingdom",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/matthewwilkes",
+    "name": "Matthew Wilkes",
+    "company": "The Code Distillery",
+    "venue": {
+      "name": "Bristol",
+      "latitude": 51.45523,
+      "longitude": -2.59665,
+      "country": "United Kingdom",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/maurits",
+    "name": "Maurits van Rees",
+    "company": "Zest Software",
+    "venue": {
+      "name": "Deurne",
+      "latitude": 51.22134,
+      "longitude": 4.46595,
+      "country": "Belgium",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/miziodel",
+    "name": "Maurizio Delmonte",
+    "company": "Product Owner",
+    "venue": {
+      "name": "Porto Potenza Picena",
+      "latitude": 43.35751,
+      "longitude": 13.69746,
+      "country": "Italy",
+      "continent": "Europe"
+    }
+  },
+  { "id": "/michael-howitz", "name": "Michael Howitz", "company": "Zope Foundation", "venue": { "name": "" } },
+  {
+    "id": "/michael-mcfadden",
+    "name": "Michael McFadden",
+    "company": "Radio Free Asia",
+    "venue": {
+      "name": "Montclair",
+      "latitude": 40.82593,
+      "longitude": -74.20903,
+      "country": "United States",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/mikel-larreategi",
+    "name": "Mikel Larreategi",
+    "company": "CodeSyntax",
+    "venue": {
+      "name": "Eibar",
+      "latitude": 43.1834,
+      "longitude": -2.4728,
+      "continent": "Europe",
+      "country": "Spain"
+    }
+  },
+  {
+    "id": "/interra",
+    "name": "Myroslav Opyr",
+    "company": "Quintagroup",
+    "venue": {
+      "name": "Lviv",
+      "latitude": 49.8433,
+      "longitude": 24.0316,
+      "continent": "Europe",
+      "country": "Ukraine"
+    }
+  },
+  {
+    "id": "/nathanvangheem",
+    "name": "Nathan Van Gheem",
+    "company": "Onna Technologies",
+    "venue": {
+      "name": "Raleigh",
+      "latitude": 35.7721,
+      "longitude": -78.63861,
+      "country": "United States",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/nejczupan",
+    "name": "Nejc Zupan",
+    "company": "Niteo",
+    "venue": {
+      "name": "Ljubljana",
+      "latitude": 46.05108,
+      "longitude": 14.50513,
+      "country": "Slovenia",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/nicola-zambello",
+    "name": "Nicola Zambello",
+    "company": "RawMaterial",
+    "venue": {
+      "name": "Ferrara",
+      "latitude": 44.83804,
+      "longitude": 11.62057,
+      "country": "Italy",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "https://plone.org/foundation/members/membership-applications/nilesh-gulia",
+    "name": "Nilesh Gulia",
+    "company": "Eau De Web (EEA)",
+    "venue": {
+      "name": "Delhi",
+      "latitude": 28.6605,
+      "longitude": 77.2229,
+      "continent": "Asia",
+      "country": "India"
+    }
+  },
+  {
+    "id": "/habegger",
+    "name": "Pascal Habegger",
+    "company": "4teamwork AG",
+    "venue": {
+      "name": "Bern",
+      "latitude": 46.94809,
+      "longitude": 7.44744,
+      "country": "Switzerland",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/paulroeland",
+    "name": "Paul Roeland",
+    "company": "Clean Clothes Campaign",
+    "venue": {
+      "name": "Amsterdam",
+      "latitude": 52.37403,
+      "longitude": 4.88969,
+      "country": "Netherlands",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/hpeteragitator",
+    "name": "Peter Holzer",
+    "company": "agitator Websolutions",
+    "venue": {
+      "name": "Zürich",
+      "latitude": 47.36667,
+      "longitude": 8.55,
+      "country": "Switzerland",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/pbauer",
+    "name": "Philip Bauer",
+    "company": "Starzel.de",
+    "venue": {
+      "name": "Munich",
+      "latitude": 48.13743,
+      "longitude": 11.57549,
+      "country": "Germany",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/piero-nicolli",
+    "name": "Piero Nicolli",
+    "company": "RedTurtle",
+    "venue": {
+      "name": "Ferrara",
+      "latitude": 44.83804,
+      "longitude": 11.62057,
+      "country": "Italy",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "https://plone.org/foundation/members/membership-applications/rafahela-bazzanella",
+    "name": "Rafahela Bazzanella",
+    "company": "Interlegis/ILB/Senado Federal",
+    "venue": {
+      "name": "Sobradinho",
+      "latitude": -12.83333,
+      "longitude": -39.1,
+      "country": "Brazil",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/foundationmember.2012-10-27.0251778682",
+    "name": "Ramon Navarro Bosch",
+    "company": "Nuclia.com",
+    "venue": {
+      "name": "Manresa",
+      "latitude": 41.72815,
+      "longitude": 1.82399,
+      "country": "Spain",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/igbun",
+    "name": "Ricardo Alves",
+    "company": "KPN, BV",
+    "venue": {
+      "name": "Amsterdam",
+      "latitude": 52.37403,
+      "longitude": 4.88969,
+      "country": "Netherlands",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/rikupekka-oksanen",
+    "name": "Rikupekka Oksanen",
+    "company": "University of Jyväskylä",
+    "venue": {
+      "name": "Muurame",
+      "latitude": 62.1296,
+      "longitude": 25.6744,
+      "continent": "Europe",
+      "country": "Finland"
+    }
+  },
+  {
+    "id": "/robgietema",
+    "name": "Rob Gietema",
+    "company": "Freelancer",
+    "venue": {
+      "name": "Arnhem",
+      "latitude": 51.98,
+      "longitude": 5.91111,
+      "country": "Netherlands",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/rnix",
+    "name": "Robert Niederreiter",
+    "company": "Squarewave Computing / Blue Dynamics Alliance",
+    "venue": {
+      "name": "Voels",
+      "latitude": 47.2528,
+      "longitude": 11.3279,
+      "continent": "Europe",
+      "country": "Austria"
+    }
+  },
+  {
+    "id": "/foundationmember.2012-05-31.2414902939",
+    "name": "Robert Porter",
+    "company": "No Organization",
+    "venue": {
+      "name": "Tyrone",
+      "latitude": 33.47123,
+      "longitude": -84.59715,
+      "country": "United States",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/jaroel",
+    "name": "Roel Bruggink",
+    "company": "Freelance",
+    "venue": {
+      "name": "Arnhem",
+      "latitude": 51.98,
+      "longitude": 5.91111,
+      "country": "Netherlands",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/rossp",
+    "name": "Ross Patterson",
+    "company": "N/A - Freelance",
+    "venue": {
+      "name": "San Francisco",
+      "latitude": 37.77493,
+      "longitude": -122.41942,
+      "country": "United States",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/skleinfeldt",
+    "name": "Sally Kleinfeldt",
+    "company": "Jazkarta",
+    "venue": {
+      "name": "Orange",
+      "latitude": 30.09299,
+      "longitude": -93.73655,
+      "country": "United States",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/sree",
+    "name": "Sreekanth S Rameshaiah",
+    "company": "Mahiti Infotech Pvt. Ltd.",
+    "venue": {
+      "name": "Bengaluru",
+      "latitude": 12.97194,
+      "longitude": 77.59369,
+      "country": "India",
+      "continent": "Asia"
+    }
+  },
+  {
+    "id": "/stefania-trabucchi",
+    "name": "Stefania Trabucchi",
+    "company": "Abstract-Technology GMBH",
+    "venue": {
+      "name": "Berlin",
+      "latitude": 52.52437,
+      "longitude": 13.41053,
+      "country": "Germany",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/stefano-marchetti",
+    "name": "Stefano Marchetti",
+    "company": "RedTurtle",
+    "venue": {
+      "name": "Ferrara",
+      "latitude": 44.83804,
+      "longitude": 11.62057,
+      "country": "Italy",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/smcmahon",
+    "name": "Steve McMahon",
+    "company": "Retired",
+    "venue": {
+      "name": "Davis",
+      "latitude": 38.5455,
+      "longitude": -121.7447,
+      "continent": "America",
+      "country": "United States"
+    }
+  },
+  {
+    "id": "/steve-piercy",
+    "name": "Steve Piercy",
+    "company": "Steve Piercy - Website Builder",
+    "venue": {
+      "name": "Eugene",
+      "latitude": 44.05207,
+      "longitude": -123.08675,
+      "country": "United States",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/sven-strack",
+    "name": "Sven Strack",
+    "company": "None",
+    "venue": {
+      "name": "Amsterdam",
+      "latitude": 52.37403,
+      "longitude": 4.88969,
+      "country": "Netherlands",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/foundationmember.2012-05-30.8851896813",
+    "name": "T. Kim Nguyen",
+    "company": "Six Feet Up, Inc.",
+    "venue": {
+      "name": "Oshkosh",
+      "latitude": 44.02471,
+      "longitude": -88.54261,
+      "country": "United States",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/tyam",
+    "name": "Takeshi Yamamoto",
+    "company": "iccm inc.",
+    "venue": {
+      "name": "Kasama",
+      "latitude": -10.21289,
+      "longitude": 31.18084,
+      "country": "Zambia",
+      "continent": "Africa"
+    }
+  },
+  {
+    "id": "/taniaa",
+    "name": "Tânia Andrea Moreira",
+    "company": "Grupo TV1",
+    "venue": {
+      "name": "Brasília",
+      "latitude": -15.77972,
+      "longitude": -47.92972,
+      "country": "Brazil",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/tbenita",
+    "name": "Thierry Benita",
+    "company": "atReal",
+    "venue": {
+      "name": "Aubagne",
+      "latitude": 43.29276,
+      "longitude": 5.57067,
+      "country": "France",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/thomas-buchberger",
+    "name": "Thomas Buchberger",
+    "company": "4teamwork",
+    "venue": {
+      "name": "Bern",
+      "latitude": 46.94809,
+      "longitude": 7.44744,
+      "country": "Switzerland",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "https://plone.org/foundation/members/emeritus-members/thomas-lotze",
+    "name": "Thomas Lotze",
+    "company": "Zope Foundation",
+    "venue": { "name": "", "latitude": 50.9281, "longitude": 11.5892, "continent": "Europe", "country": "Germany" }
+  },
+  {
+    "id": "/tomcom",
+    "name": "Thomas Zeleny",
+    "company": "tomcom GmbH",
+    "venue": {
+      "name": "Lindau",
+      "latitude": 47.5512,
+      "longitude": 9.6934,
+      "continent": "Europe",
+      "country": "Germany"
+    }
+  },
+  {
+    "id": "/tiberiu-ichim",
+    "name": "Tiberiu Ichim",
+    "company": "SC Eaudeweb SRL",
+    "venue": {
+      "name": "Oradea",
+      "latitude": 47.0458,
+      "longitude": 21.91833,
+      "country": "Romania",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/timo",
+    "name": "Timo Stollenwerk",
+    "company": "kitconcept GmbH",
+    "venue": {
+      "name": "Boulder",
+      "latitude": 40.01499,
+      "longitude": -105.27055,
+      "country": "United States",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/victorfda",
+    "name": "Víctor Fernández de Alba",
+    "company": "kitconcept, GmbH",
+    "venue": {
+      "name": "Terrassa",
+      "latitude": 41.56667,
+      "longitude": 2.01667,
+      "country": "Spain",
+      "continent": "Europe"
+    }
+  },
+  {
+    "id": "/vincentfretin",
+    "name": "Vincent Fretin",
+    "company": "freelance",
+    "venue": {
+      "name": "Esquina",
+      "latitude": -30.01476,
+      "longitude": -59.5289,
+      "country": "Argentina",
+      "continent": "America"
+    }
+  },
+  {
+    "id": "/vds",
+    "name": "Vincenzo Di Somma",
+    "company": "Canonical",
+    "venue": {
+      "name": "Pisa",
+      "latitude": 43.715,
+      "longitude": 10.3999,
+      "continent": "Europe",
+      "country": "Italy"
+    }
+  },
+  {
+    "id": "/wfennie",
+    "name": "William Fennie",
+    "company": "University of Maryland-MPRC",
+    "venue": {
+      "name": "Silver Springs",
+      "latitude": 29.21664,
+      "longitude": -82.05759,
+      "country": "United States",
+      "continent": "America"
+    }
+  }
+]
